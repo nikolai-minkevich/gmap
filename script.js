@@ -3,7 +3,7 @@ let map;
 function initMap() {
     map = new google.maps.Map(document.getElementById("map"), {
         center: { lat: 60.716667, lng: 28.766667 },
-        zoom: 12,
+        zoom: 13,
     });
 
     let markerCastle = new google.maps.Marker({

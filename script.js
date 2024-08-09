@@ -10,10 +10,10 @@ function initMap() {
         position: { lat: 60.716667, lng: 28.766667 },
         title: "Castle",
         icon: {
-            url: "./assets/castle.png", // url
-            scaledSize: new google.maps.Size(50, 50), // scaled size
-            origin: new google.maps.Point(0,0), // origin
-            anchor: new google.maps.Point(0, 0) // anchor
+            url: "./assets/castle.png",
+            scaledSize: new google.maps.Size(50, 50),
+            origin: new google.maps.Point(0,0),
+            anchor: new google.maps.Point(0, 0) 
         }
     });
 
@@ -23,10 +23,10 @@ function initMap() {
         position: { lat: 60.716, lng: 28.73 },
         title: "Castle",
         icon: {
-            url: "./assets/lighthouse.png", // url
-            scaledSize: new google.maps.Size(50, 50), // scaled size
-            origin: new google.maps.Point(0,0), // origin
-            anchor: new google.maps.Point(0, 0) // anchor
+            url: "./assets/lighthouse.png",
+            scaledSize: new google.maps.Size(50, 50),
+            origin: new google.maps.Point(0,0),
+            anchor: new google.maps.Point(0, 0)
         }
     });
 
@@ -36,10 +36,10 @@ function initMap() {
         position: { lat: 60.7016667, lng: 28.78 },
         title: "Castle",
         icon: {
-            url: "./assets/house.png", // url
-            scaledSize: new google.maps.Size(50, 50), // scaled size
-            origin: new google.maps.Point(0,0), // origin
-            anchor: new google.maps.Point(0, 0) // anchor
+            url: "./assets/house.png",
+            scaledSize: new google.maps.Size(50, 50),
+            origin: new google.maps.Point(0,0),
+            anchor: new google.maps.Point(0, 0)
         }
     });
 

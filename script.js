@@ -13,7 +13,7 @@ function initMap() {
             url: "./assets/castle.png",
             scaledSize: new google.maps.Size(50, 50),
             origin: new google.maps.Point(0,0),
-            anchor: new google.maps.Point(0, 0) 
+            anchor: new google.maps.Point(25, 25) 
         }
     });
 
@@ -26,7 +26,7 @@ function initMap() {
             url: "./assets/lighthouse.png",
             scaledSize: new google.maps.Size(50, 50),
             origin: new google.maps.Point(0,0),
-            anchor: new google.maps.Point(0, 0)
+            anchor: new google.maps.Point(25, 25)
         }
     });
 
@@ -39,7 +39,7 @@ function initMap() {
             url: "./assets/house.png",
             scaledSize: new google.maps.Size(50, 50),
             origin: new google.maps.Point(0,0),
-            anchor: new google.maps.Point(0, 0)
+            anchor: new google.maps.Point(25, 25)
         }
     });
 
